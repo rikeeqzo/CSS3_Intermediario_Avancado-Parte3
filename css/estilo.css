@@ -10,7 +10,6 @@ ul {
 }
 
 ul li {
-    border: 1px solid red;
     float: left;
 }
 
@@ -18,4 +17,6 @@ ul a {
     display: block;
     padding: 0 2em;
     line-height: 2em;
+    text-decoration: none;
+    color: #FFF;
 }
