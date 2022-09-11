@@ -19,4 +19,5 @@ ul a {
     line-height: 2em;
     text-decoration: none;
     color: #FFF;
+    background: url(../imagens/divisor.png) repeat-y;
 }
