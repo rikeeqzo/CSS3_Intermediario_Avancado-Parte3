@@ -1,10 +1,15 @@
 /*
 Barra de navegação horizontal */
 ul {
-    border: 1px solid red;
     margin: 0;
     padding: 0;
     list-style: none;
     width: 720px;
     background: #159cb0 url(../imagens/fundo-horizontal.png) repeat-x;
+    float: left;
+}
+
+ul li {
+    border: 1px solid red;
+    float: left;
 }
