@@ -21,3 +21,19 @@ ul a {
     color: #FFF;
     background: url(../imagens/divisor.png) repeat-y left top;
 }
+
+ul .primeiro a {
+    background: none;
+}
+
+ul a:hover {
+    color: #085662;
+    background: #44cade;
+}
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a{
+    color: #085662;
+    background: #44cade;
+}
